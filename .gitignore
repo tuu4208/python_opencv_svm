@@ -1,0 +1,17 @@
+# Jupyter chaeckpoints folder
+.ipynb_checkpoints
+
+# temp file
+*.swp
+
+# dataset
+data
+
+# model
+!model
+
+# Python compile file
+*.pyc
+
+# PDF file
+*.pdf
