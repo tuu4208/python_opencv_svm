@@ -17,7 +17,7 @@
     共有150筆資料(訓練120筆、測試30筆)
 - 資料及來源:<p>https://archive.ics.uci.edu/ml/datasets/iris
 <br>
-<img src = "https://en.wikipedia.org/wiki/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg" width = "200"><br>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/800px-Kosaciec_szczecinkowaty_Iris_setosa.jpg" width = "200"><br>
 <font size="1" color = "gray">圖片來源：https://en.wikipedia.org/wiki/Iris_flower_data_set</font><br>
 
 ---
